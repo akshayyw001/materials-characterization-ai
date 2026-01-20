@@ -1,0 +1,23 @@
+# Kaggle Environment Requirements for week7_characterization_ai.py
+
+# Core Materials Science Stack
+pymatgen==2025.1.1
+matminer==0.9.3
+
+# ML/Data Science Stack
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+
+# Chemistry/ML Features
+rdkit-pypi==2024.9.5
+scipy==1.13.1
+
+# Visualization/Utility
+matplotlib==3.9.2
+seaborn==0.13.2
+tqdm==4.66.4
+
+# Kaggle Environment Compatibility
+jupyter==1.0.0
+ipython==8.26.0
