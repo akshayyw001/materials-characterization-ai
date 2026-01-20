@@ -15,20 +15,18 @@ Your model demonstrates **context-aware technique switching** across battery mat
 
 **8-Material Validation Matrix**
 
-Complete Battery Stack Intelligence (64.8% SOTA)
+## Complete Battery Stack Intelligence (64.8% SOTA)
 
-┌──────────────┬──────────────┬────────────┬─────────────────────────────┐
-│ Material     │ Primary      │ Confidence │ Key Prediction              │
-├──────────────┼──────────────┼────────────┼─────────────────────────────┤
-│ NMC811       │ XPS          │ 97.7%      │ Ni 2p oxidation states      │
-│ NMC622       │ XPS          │ 97.8%      │ Ni/Co/Mn surface chemistry  │
-│ LCO          │ XPS          │ 98.2%      │ Co 2p binding energies      │
-│ SiO₂ Anode   │ XPS          │ 98.6%      │ Si 2p (99/103eV)            │
-│ LCO+Si       │ **SEM**      │ **81.5%**  │ **Volume expansion cracks** │
-│ NMC811+Al    │ **XRD**      │ **75.7%**  │ **Phase stability**         │
-│ High-Mn      │ XPS          │ 97.8%      │ Mn redox states             │
-│ Ti-Doped     │ XPS          │ 98.1%      │ Ti 2p (458eV) substitution  │
-└──────────────┴──────────────┴────────────┴─────────────────────────────┘
+| Material     | Primary Technique | Confidence | Key Prediction                  |
+|--------------|-------------------|------------|---------------------------------|
+| **NMC811**   | **XPS**           | **97.7%**  | Ni 2p oxidation states          |
+| **NMC622**   | **XPS**           | **97.8%**  | Ni/Co/Mn surface chemistry      |
+| **LCO**      | **XPS**           | **98.2%**  | Co 2p binding energies          |
+| **SiO₂ Anode** | **XPS**        | **98.6%**  | Si 2p (99/103eV)                |
+| **LCO+Si**   | **SEM**           | **81.5%**  | Volume expansion cracks     |
+| **NMC811+Al**| **XRD**           | **75.7%**  | Phase stability             |
+| **High-Mn**  | **XPS**           | **97.8%**  | Mn redox states                 |
+| **Ti-Doped** | **XPS**           | **98.1%**  | Ti 2p (458eV) substitution      |
 
 **Key Scientific Insights**
 
