@@ -7,11 +7,11 @@
 
 Your model demonstrates **context-aware technique switching** across battery materials:
 
-| Context | Primary Technique | Confidence | Key Application |
-|---------|------------------|------------|-----------------|
-| **Pure Cathodes** | **XPS** | **97.7-98.6%** | Surface chemistry |
-| **Si Composites** | **SEM** | **81.5%** | Volume expansion |
-| **Al-Doped** | **XRD** | **75.7%** | Phase stability |
+| Context           | Primary Technique | Confidence     | Key Application |
+|-------------------|-------------------|----------------|-----------------|
+| **Pure Cathodes** | **XPS**           | **97.7-98.6%** | Surface chemistry |
+| **Si Composites** | **SEM**           | **81.5%**      | Volume expansion |
+| **Al-Doped**      | **XRD**           | **75.7%**      | Phase stability |
 
 **8-Material Validation Matrix**
 
@@ -29,7 +29,6 @@ Complete Battery Stack Intelligence (64.8% SOTA)
 │ High-Mn      │ XPS          │ 97.8%      │ Mn redox states             │
 │ Ti-Doped     │ XPS          │ 98.1%      │ Ti 2p (458eV) substitution  │
 └──────────────┴──────────────┴────────────┴─────────────────────────────┘
-```
 
 **Key Scientific Insights**
 
@@ -37,14 +36,12 @@ Complete Battery Stack Intelligence (64.8% SOTA)
 Pure TM cathodes → XPS (surface chemistry)
 Si-containing → SEM (morphology/expansion)
 Al-doped → XRD (crystallinity/phase)
-```
 
 2. **Battery-Relevant Predictions**
 - Si 2p binding energies: 99eV (Si⁰), 103eV (SiO₂)
 - Mn redox states (High-Mn stability)
 - Volume expansion detection (LCO+Si)
 - Ti/Al dopant surface signatures
-```
 
 **SOTA Validation**
 Overall Accuracy: 64.8% (SOTA)
